@@ -38,6 +38,9 @@
   
    - AWS Cloud Pratictioner Essentials (KaSolution)
    ![image](https://github.com/elimarmcd/certificacoes/assets/157633420/da14c5c2-d75f-48f7-9bc9-b4de65f00135)
+
+  - Fundamentos AWS (Escola da Nuvem)
+    ![image](https://github.com/elimarmcd/certificacoes/assets/157633420/96dae502-ec60-41f4-89c7-b6048f4749e8)
   
   # AZURE
         
@@ -46,9 +49,6 @@
 
   - Microsoft Azure Fundamentals (AZ-900)
     ![image](https://github.com/elimarmcd/certificacoes/assets/157633420/a358aae4-ecc9-4b8e-9fc4-d8b117c8bb1c)
-
-  - Fundamentos AWS (Escola da Nuvem)
-    ![image](https://github.com/elimarmcd/certificacoes/assets/157633420/96dae502-ec60-41f4-89c7-b6048f4749e8)
 
   - Microsoft Azure Fundamental
     ![image](https://github.com/elimarmcd/certificacoes/assets/157633420/0556a289-c702-4596-b15d-7f129cd1e996)
