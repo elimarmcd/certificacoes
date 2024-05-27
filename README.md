@@ -53,7 +53,7 @@
   - Microsoft Azure Fundamental
     ![image](https://github.com/elimarmcd/certificacoes/assets/157633420/0556a289-c702-4596-b15d-7f129cd1e996)
 
-# METODOS AGEIS
+# MÉTODOS AGEIS
   - Scrum Overview
     ![image](https://github.com/elimarmcd/certificacoes/assets/157633420/b0c07e68-b78d-4c14-9f6e-174c947bdf61)
 
