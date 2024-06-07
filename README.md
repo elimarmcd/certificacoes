@@ -8,6 +8,10 @@
     ![image](https://github.com/elimarmcd/certificacoes/assets/157633420/e7ff6387-f37d-4054-ae11-50ecb9cf2d48)
 
   # JAVA
+  - Desenvolvimento Java com IA
+    ![image](https://github.com/elimarmcd/certificacoes/assets/157633420/cecf59d5-006f-4db1-bb5c-ee8550302b04)
+
+  
   - Aplicando a orientação a objetos
     ![Java - Aplicando a orientação a objetos_01](https://github.com/elimarmcd/certificacoes/assets/157633420/28793416-d369-4199-86dd-9e933fb7f680)
  
